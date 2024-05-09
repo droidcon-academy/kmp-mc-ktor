@@ -1,16 +1,15 @@
 [versions]
-agp = "8.2.0"
+agp = "8.2.2"
 android-compileSdk = "34"
 android-minSdk = "24"
 android-targetSdk = "34"
-androidx-activityCompose = "1.8.2"
-compose = "1.6.2"
-compose-plugin = "1.6.0"
-kotlin = "1.9.22"
-coil = "2.3.2"
+androidx-activityCompose = "1.9.0"
+compose = "1.6.7"
+compose-plugin = "1.6.2"
+kotlin = "1.9.23"
+coil = "2.3.3"
 kotlinxCoroutinesCore = "1.8.0"
-ktor = "2.3.9"
-kermit = "2.0.2"
+ktor = "2.3.10"
 date-time = "0.5.0"
 voyager = "1.0.0"
 
@@ -23,7 +22,6 @@ voyager-navigator = { module = "cafe.adriel.voyager:voyager-navigator", version.
 voyager-screen-model = { module = "cafe.adriel.voyager:voyager-screenmodel", version.ref = "voyager" }
 voyager-transitions = { module = "cafe.adriel.voyager:voyager-transitions", version.ref = "voyager" }
 coil-multiplatform = { module = "com.github.skydoves:landscapist-coil3", version.ref = "coil" }
-kermit = { module = "co.touchlab:kermit", version.ref = "kermit" }
 kotlinx-coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "kotlinxCoroutinesCore" }
 ktor-client-content-negotiation = { module = "io.ktor:ktor-client-content-negotiation", version.ref = "ktor" }
 ktor-serialization-kotlinx-json = { module = "io.ktor:ktor-serialization-kotlinx-json", version.ref = "ktor" }

@@ -44,7 +44,7 @@ kotlin {
             implementation(libs.voyager.screen.model)
             implementation(libs.voyager.transitions)
             implementation(libs.coil.multiplatform)
-            implementation(libs.kermit)
+
             implementation(libs.kotlinx.coroutines.core)
             implementation(libs.ktor.client.core)
             implementation(libs.ktor.client.content.negotiation)
