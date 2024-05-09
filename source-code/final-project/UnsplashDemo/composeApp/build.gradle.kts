@@ -42,7 +42,6 @@ kotlin {
 
             implementation(libs.voyager.navigator)
             implementation(libs.voyager.screen.model)
-            implementation(libs.voyager.transitions)
             implementation(libs.coil.multiplatform)
 
             implementation(libs.kotlinx.coroutines.core)
